@@ -1,1 +1,1 @@
-# crypto-elvs-img-generator
+# crypto-elves-img-generator
